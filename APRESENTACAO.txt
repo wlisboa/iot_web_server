@@ -1,31 +1,25 @@
-    Apresentação para o Arduino Day
+>>>>  Apresentação para o Arduino Day <<<<
    
-Referências:
+1. Referências:
   https://github.com/esp8266/esp8266-wiki/wiki
+
+2. O que é IoT ?  
+
+  -IoT = Internet Off Things "Internet das coisas"
   
-O que é o ESP8266  ?
+3. O que é o ESP8266 ?
 
-  É um sistema em um chip (SoC) com comunicação sem fio.
-
-  Ele possui GPIO (General Purpose IO), I2C, ADC (Analog to Digital Converter), PWM e algo mais.
-
-  Ele roda a 80 MHz.
-
-  Possuin 64KBytes de RAM para instrução.
-
-  Possui 96KBytes RAM de dados.
-
-  Possui 64KBytes de boot ROM.
-
-  Possui um chip Winbond W25Q40BVNIG que é uma flash SPI.
-
-  Possu arquitetura RISC.
-
-  O core é um 106micro Diamond Standard core (LX3) feito pola Tensilica.
-
-  O cip ESP8266 é fabricado pela empresa Espressif.
-  
-  Existem vários fabricantes que utilizam esse chip em vários modelos de módulos.
+ - É um sistema em um chip (SoC) com comunicação sem fio.
+ - Ele possui GPIO (General Purpose IO), I2C, ADC (Analog to Digital Converter), PWM e algo mais.
+ - Ele roda a 80 MHz.
+ - Possuin 64KBytes de RAM para instrução.
+ - Possui 96KBytes RAM de dados.
+ - Possui 64KBytes de boot ROM.
+ - Possui um chip Winbond W25Q40BVNIG que é uma flash SPI.
+ - Possu arquitetura RISC.
+ - O core é um 106micro Diamond Standard core (LX3) feito pola Tensilica.
+ - O cip ESP8266 é fabricado pela empresa Espressif.
+ - Existem vários fabricantes que utilizam esse chip em vários modelos de módulos.
 
   
   
